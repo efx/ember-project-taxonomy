@@ -1,6 +1,6 @@
 # ember-project-taxonomy
 
-Retrieve labels for a given ember project for to analysis.
+Retrieve labels for a given ember project for analysis.
 For taxonomy nerds only. I was curious about what labels we have and how we use them so I wrote these simple scripts to extract that data from GitHub's API.
 
 ## quick explorations
