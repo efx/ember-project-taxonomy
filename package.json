@@ -1,0 +1,15 @@
+{
+  "name": "ember-project-taxonomy",
+  "version": "0.0.1",
+  "description": "query labels in use by an ember.js project",
+  "main": "index.js",
+  "scripts": {
+		"labels-data": "node index.js data > labels-data.json"
+	},
+  "author": "efx",
+  "license": "Apache-2.0",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

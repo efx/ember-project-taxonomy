@@ -1,0 +1,14 @@
+query ProjectLabels($emberProject: String!) {
+  repository(name: $emberProject, owner: "emberjs") {
+    nameWithOwner
+    labels(orderBy: {field: NAME, direction: ASC}, first: 100) {
+      edges {
+        node {
+          name
+          description
+          createdAt
+        }
+      }
+    }
+  }
+}
