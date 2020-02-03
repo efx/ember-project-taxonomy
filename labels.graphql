@@ -7,6 +7,12 @@ query ProjectLabels($emberProject: String!) {
           name
           description
           createdAt
+          issues {
+            totalCount
+          }
+          pullRequests {
+            totalCount
+          }
         }
       }
     }
