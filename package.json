@@ -4,12 +4,13 @@
   "description": "query labels in use by an ember.js project",
   "main": "index.js",
   "scripts": {
-		"labels-data": "node index.js data > labels-data.json"
-	},
+    "labels-data": "node index.js data > labels-data.json"
+  },
   "author": "efx",
   "license": "Apache-2.0",
   "private": false,
   "dependencies": {
+    "json2csv": "^4.5.4",
     "node-fetch": "^2.6.0"
   }
 }

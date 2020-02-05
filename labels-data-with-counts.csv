@@ -1,0 +1,68 @@
+"name","description","createdAt","issue_count","pull_request_count"
+"Bug",,"2007-10-20T11:24:19Z",245,47
+"Build Infra","","2019-08-23T23:38:53Z",6,2
+"CI","","2019-08-23T23:38:40Z",21,48
+"Cleanup",,"2007-10-20T11:24:19Z",12,5
+"Documentation",,"2013-02-24T12:03:42Z",41,10
+"Fastboot","","2018-07-19T19:19:46Z",3,2
+"Feature",,"2013-09-06T23:35:57Z",18,16
+"Good for New Contributors",,"2015-01-29T04:55:39Z",148,1
+"Hacktoberfest","","2018-10-01T21:42:03Z",1,1
+"Has PR",,"2017-10-09T19:15:29Z",18,0
+"Improvement",,"2007-10-20T11:24:19Z",138,71
+"Needs Bug Verification",,"2012-07-09T15:55:35Z",82,4
+"Needs PR(s)","Issues that still require additional PRs to land","2018-08-30T19:19:37Z",5,0
+"Needs Submitter Response",,"2015-01-29T05:01:37Z",14,2
+"Needs Team Discussion",,"2014-09-06T16:51:54Z",33,37
+"Octane","Issues related to Octane features","2019-03-25T17:57:27Z",10,5
+"Regression",,"2016-04-07T17:37:13Z",10,1
+"Relationship Refactor","","2019-10-08T20:21:08Z",2,8
+"Release Infra","","2019-08-23T23:39:20Z",6,0
+"TRACK-packages","Issues and PRs related to landing the Packages RFC","2019-04-11T18:39:17Z",9,24
+"api-errors","issues relating to error extraction and handling including the errors hash on DS.Model","2018-04-23T20:30:04Z",14,0
+"backport-beta","","2019-11-15T22:40:33Z",0,6
+"backport-lts","","2019-11-15T22:42:09Z",0,6
+"backport-release","","2019-11-15T22:41:21Z",0,5
+"blocked","","2019-11-12T19:12:16Z",0,0
+"blocking",,"2014-11-27T20:31:25Z",4,5
+"bot_automerge","","2019-05-08T19:17:40Z",0,4
+"changelog:bugfix","This PR primarily fixes a reported issue","2019-09-12T20:41:58Z",0,29
+"changelog:chore","This PR primarily refactors code or updates dependencies","2019-09-12T20:39:26Z",0,39
+"changelog:cleanup","This PR primarily removes deprecated functionality","2019-09-12T20:39:00Z",0,5
+"changelog:deprecation","","2019-12-03T02:32:45Z",0,1
+"changelog:doc","This PR adds/improves/or fixes documentation","2019-09-12T20:41:07Z",0,8
+"changelog:feat","This PR introduces a new feature","2019-09-12T20:40:28Z",0,5
+"changelog:security","This PR addresses a disclosed security vulnerability with an assigned SVE","2019-09-12T20:41:35Z",0,0
+"changelog:test","This PR primarily adds tests for a feature","2019-09-12T20:39:57Z",0,20
+"class-polymorphism","issues relating to polymorphic classes","2018-04-23T20:31:44Z",0,0
+"coalescing","issues related to coalescing records during find requests","2016-05-23T13:32:17Z",6,2
+"code-review","Tracks PRs that require a code-review","2018-10-26T06:35:09Z",0,10
+"concept-review","Tracks PRs that introduce new concepts that need reviewed for discussion","2015-01-26T03:55:16Z",0,7
+"dependencies","Pull requests that update a dependency file","2018-12-07T16:45:08Z",1,434
+"internal","","2019-07-10T14:35:02Z",0,4
+"jquery","","2018-09-08T21:28:55Z",0,2
+"links",,"2016-05-27T07:36:13Z",9,0
+"lts-target","Fixes that should be prioritized for the next beta release","2018-07-19T18:13:24Z",11,22
+"meta",,"2016-05-27T07:35:12Z",10,0
+"perf",,"2015-08-17T17:45:24Z",4,2
+"polymorphism","issues relating to polymorphism in general","2013-11-14T04:45:20Z",3,7
+"record-data","A temporary tag for tracking issues that affect `record-data` versions of `ember-data` vs LTS","2018-10-12T14:49:34Z",5,1
+"references",,"2016-05-30T20:59:26Z",7,0
+"relationship-polymorphism","issues relating to polymorphic relationships","2018-04-23T20:31:16Z",0,0
+"release-blocker","Do not release if any open issues have this label","2020-01-22T01:56:05Z",0,1
+"release-needed","Fixes that have landed but still require a release or will require a backport release","2018-08-21T18:09:12Z",4,0
+"request-manager","","2019-07-24T00:26:42Z",1,0
+"security","Pull requests that address a security vulnerability","2018-12-07T16:45:46Z",0,9
+"spam","","2020-02-03T18:29:41Z",1,0
+"target:beta","PR should be backported to beta","2019-09-12T20:32:24Z",0,2
+"target:canary","PR is targeting canary (default)","2019-09-12T20:33:34Z",0,36
+"target:lts","The PR should be backported to the most recent LTS","2019-09-12T20:33:57Z",0,3
+"target:lts-3-12","","2019-09-25T00:19:55Z",0,7
+"target:lts-3-8","PR should be backported to the 3.8 lts","2019-09-12T20:34:20Z",0,2
+"target:release","PR should be backported to release","2019-09-12T20:32:44Z",0,2
+"test-contribution","","2018-03-30T13:48:29Z",12,11
+"ts-review","Tracks PRs that require a review of typings introduced","2018-11-21T20:24:12Z",0,15
+"unload-apis","","2019-10-30T22:12:37Z",11,6
+"🌲 Project Trim 🌲","PRs related to https://github.com/emberjs/data/issues/6166","2019-08-20T20:20:57Z",9,83
+"🌲 📦 Encapsulation & Interface Tests 📦 🌲","","2019-10-01T18:44:36Z",2,22
+"🔌 Project Unplug 🔌","","2019-11-05T00:00:24Z",0,12
